@@ -7,3 +7,7 @@ This project aims to implement a robust SARIMAX model for frecasting stock price
 ## Forecasted movement -  
 ![output](https://github.com/Yash-C1/Time-Series-Stock-Price-Forecasting-with-SARIMAX/blob/main/images/forecast.png)
 
+# Time-Series-Stock-Price-Forecasting-with-LSTM
+
+# Time-Series-Stock-Price-Forecasting-with-GRU
+
